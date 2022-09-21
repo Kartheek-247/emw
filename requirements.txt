@@ -56,6 +56,6 @@ tokenize-rt==4.2.1
 typing_extensions==4.3.0
 tzdata==2022.2
 urllib3==1.26.12
-Werkzeug==2.2.2
+Werkzeug
 whitenoise==6.2.0
 wrapt==1.14.1
